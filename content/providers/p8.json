@@ -1,0 +1,17 @@
+{
+  "id": "p8",
+  "name": "Lucia Poláková",
+  "category": "upratovanie",
+  "subcategory": "Žehlenie a domáce práce",
+  "location": "Bratislava - Staré Mesto",
+  "tier": "free",
+  "rating": 4.8,
+  "reviews": 15,
+  "priceFrom": 8,
+  "priceUnit": "/hod",
+  "verified": false,
+  "bio": "Žehlenie a starostlivosť o bielizeň priamo u vás doma, možnosť aj pravidelného odberu.",
+  "tags": [
+    "Pravidelný odber"
+  ]
+}

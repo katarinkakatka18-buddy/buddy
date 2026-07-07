@@ -1,0 +1,17 @@
+{
+  "id": "p15",
+  "name": "Branislav Kučera",
+  "category": "oplotenie",
+  "subcategory": "Ploty a bránky",
+  "location": "Svätý Jur",
+  "tier": "free",
+  "rating": 4.6,
+  "reviews": 8,
+  "priceFrom": 25,
+  "priceUnit": "/m",
+  "verified": false,
+  "bio": "Stavba a oprava plotov, bránok a záhradných konštrukcií na mieru.",
+  "tags": [
+    "Práca na mieru"
+  ]
+}

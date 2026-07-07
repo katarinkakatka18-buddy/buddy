@@ -1,0 +1,17 @@
+{
+  "id": "p9",
+  "name": "Štefan Uhrík",
+  "category": "podlahy",
+  "subcategory": "Podlahár",
+  "location": "Malacky",
+  "tier": "premium",
+  "rating": 4.9,
+  "reviews": 38,
+  "priceFrom": 9,
+  "priceUnit": "/m²",
+  "verified": true,
+  "bio": "Montáž plávajúcich podláh, parkiet a vinylu, brúsenie a renovácia starých podláh.",
+  "tags": [
+    "Renovácie starých podláh"
+  ]
+}

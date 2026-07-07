@@ -1,0 +1,17 @@
+{
+  "id": "p13",
+  "name": "Dávid Nemec",
+  "category": "oprava-spotrebicov",
+  "subcategory": "Servis spotrebičov",
+  "location": "Bratislava - Vrakuňa",
+  "tier": "free",
+  "rating": 4.7,
+  "reviews": 17,
+  "priceFrom": 22,
+  "priceUnit": "/výjazd",
+  "verified": true,
+  "bio": "Servis a oprava chladničiek, práčok a umývačiek priamo u vás doma.",
+  "tags": [
+    "Diagnostika na mieste"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "p3",
+  "name": "Tomáš Baláž",
+  "category": "elektrika",
+  "subcategory": "Elektrikár",
+  "location": "Bratislava - Nové Mesto",
+  "tier": "free",
+  "rating": 4.7,
+  "reviews": 31,
+  "priceFrom": 20,
+  "priceUnit": "/hod",
+  "verified": true,
+  "bio": "Revízie, opravy a nová elektroinštalácia v bytoch aj rodinných domoch.",
+  "tags": [
+    "Revízie elektroinštalácie"
+  ]
+}

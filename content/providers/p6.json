@@ -1,0 +1,18 @@
+{
+  "id": "p6",
+  "name": "Zuzana Nagyová",
+  "category": "stahovanie",
+  "subcategory": "Sťahovanie bytov",
+  "location": "Senec",
+  "tier": "premium",
+  "rating": 4.9,
+  "reviews": 45,
+  "priceFrom": 18,
+  "priceUnit": "/hod",
+  "verified": true,
+  "bio": "Sťahovanie bytov a kancelárií vrátane balenia a demontáže nábytku, vlastná dodávka.",
+  "tags": [
+    "Vlastná dodávka",
+    "Balenie na mieru"
+  ]
+}

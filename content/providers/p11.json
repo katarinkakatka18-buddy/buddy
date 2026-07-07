@@ -1,0 +1,17 @@
+{
+  "id": "p11",
+  "name": "Ján Vrábel",
+  "category": "rekonstrukcie",
+  "subcategory": "Stavebné a murárske práce",
+  "location": "Bratislava - Rača",
+  "tier": "free",
+  "rating": 4.7,
+  "reviews": 9,
+  "priceFrom": 30,
+  "priceUnit": "/výjazd",
+  "verified": true,
+  "bio": "Drobné stavebné a murárske práce, prestavby priečok, revízne správy pre kominy.",
+  "tags": [
+    "Revízna správa"
+  ]
+}

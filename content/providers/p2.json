@@ -1,0 +1,18 @@
+{
+  "id": "p2",
+  "name": "Peter Horváth",
+  "category": "instalatersvo",
+  "subcategory": "Vodoinštalatér",
+  "location": "Bratislava - Petržalka",
+  "tier": "premium",
+  "rating": 4.8,
+  "reviews": 84,
+  "priceFrom": 25,
+  "priceUnit": "/hod",
+  "verified": true,
+  "bio": "Opravy a montáž vodoinštalácií, kotlov a kúpeľní. Výjazd do 24 hodín, havárie riešim aj v ten istý deň.",
+  "tags": [
+    "Havarijná služba",
+    "Faktúra na firmu"
+  ]
+}

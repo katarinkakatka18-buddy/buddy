@@ -1,0 +1,17 @@
+{
+  "id": "p5",
+  "name": "Marek Švec",
+  "category": "montaz",
+  "subcategory": "Montáž a drobné opravy",
+  "location": "Bratislava - Karlova Ves",
+  "tier": "free",
+  "rating": 4.6,
+  "reviews": 27,
+  "priceFrom": 15,
+  "priceUnit": "/hod",
+  "verified": false,
+  "bio": "Montáž nábytku, TV a svietidiel, vešanie obrazov a políc, výmena batérií a kľučiek.",
+  "tags": [
+    "Rýchly termín do 48h"
+  ]
+}

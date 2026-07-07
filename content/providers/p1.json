@@ -1,0 +1,18 @@
+{
+  "id": "p1",
+  "name": "Jana Kováčová",
+  "category": "upratovanie",
+  "subcategory": "Upratovanie domácností",
+  "location": "Bratislava - Ružinov",
+  "tier": "premium",
+  "rating": 4.9,
+  "reviews": 62,
+  "priceFrom": 12,
+  "priceUnit": "/hod",
+  "verified": true,
+  "bio": "Pravidelné aj jednorazové upratovanie domácností a kancelárií. 6 rokov praxe, vlastné ekologické pomôcky.",
+  "tags": [
+    "Ekologické čistiace prostriedky",
+    "Aj víkendy"
+  ]
+}
